@@ -1,0 +1,617 @@
+No_QR,NOM_QR,AnneeDeclaration,NBR_LOGTRAITE,Pct_LogTraite_QR,NOM_ARROND
+01,Cartierville,2011,54,0.00511605873993,Ahuntsic-Cartierville
+01,Cartierville,2012,101,0.00956892468025,Ahuntsic-Cartierville
+01,Cartierville,2013,361,0.0342018000947,Ahuntsic-Cartierville
+01,Cartierville,2014,404,0.038275698721,Ahuntsic-Cartierville
+01,Cartierville,2015,361,0.0342018000947,Ahuntsic-Cartierville
+01,Cartierville,2016,374,0.0354334438655,Ahuntsic-Cartierville
+01,Cartierville,2017,150,0.0142112742776,Ahuntsic-Cartierville
+01,Cartierville,2018,43,0.00407389862624,Ahuntsic-Cartierville
+02,Nouveau-Bordeaux,2011,8,0.00063371356147,Ahuntsic-Cartierville
+02,Nouveau-Bordeaux,2012,17,0.00134664131812,Ahuntsic-Cartierville
+02,Nouveau-Bordeaux,2013,132,0.0104562737643,Ahuntsic-Cartierville
+02,Nouveau-Bordeaux,2014,76,0.00602027883397,Ahuntsic-Cartierville
+02,Nouveau-Bordeaux,2015,60,0.00475285171103,Ahuntsic-Cartierville
+02,Nouveau-Bordeaux,2016,53,0.00419835234474,Ahuntsic-Cartierville
+02,Nouveau-Bordeaux,2017,168,0.0133079847909,Ahuntsic-Cartierville
+02,Nouveau-Bordeaux,2018,23,0.00182192648923,Ahuntsic-Cartierville
+03,Nicolas-Viel,2011,41,0.00450400966714,Ahuntsic-Cartierville
+03,Nicolas-Viel,2012,65,0.00714050313084,Ahuntsic-Cartierville
+03,Nicolas-Viel,2013,121,0.0132923212128,Ahuntsic-Cartierville
+03,Nicolas-Viel,2014,190,0.0208722399209,Ahuntsic-Cartierville
+03,Nicolas-Viel,2015,125,0.0137317367901,Ahuntsic-Cartierville
+03,Nicolas-Viel,2016,62,0.00681094144787,Ahuntsic-Cartierville
+03,Nicolas-Viel,2017,53,0.00582225639899,Ahuntsic-Cartierville
+03,Nicolas-Viel,2018,20,0.00219707788641,Ahuntsic-Cartierville
+04,Sault-au-Récollet,2011,68,0.00511393547417,Ahuntsic-Cartierville
+04,Sault-au-Récollet,2012,79,0.00594118974205,Ahuntsic-Cartierville
+04,Sault-au-Récollet,2013,146,0.0109799202828,Ahuntsic-Cartierville
+04,Sault-au-Récollet,2014,317,0.0238399639016,Ahuntsic-Cartierville
+04,Sault-au-Récollet,2015,220,0.0165450853576,Ahuntsic-Cartierville
+04,Sault-au-Récollet,2016,129,0.00970143641423,Ahuntsic-Cartierville
+04,Sault-au-Récollet,2017,119,0.00894938707979,Ahuntsic-Cartierville
+04,Sault-au-Récollet,2018,44,0.00330901707152,Ahuntsic-Cartierville
+05,Saint-Sulpice,2011,20,0.00204123290467,Ahuntsic-Cartierville
+05,Saint-Sulpice,2012,60,0.00612369871402,Ahuntsic-Cartierville
+05,Saint-Sulpice,2013,216,0.0220453153705,Ahuntsic-Cartierville
+05,Saint-Sulpice,2014,149,0.0152071851398,Ahuntsic-Cartierville
+05,Saint-Sulpice,2015,99,0.0101041028781,Ahuntsic-Cartierville
+05,Saint-Sulpice,2016,73,0.00745050010206,Ahuntsic-Cartierville
+05,Saint-Sulpice,2017,84,0.00857317819963,Ahuntsic-Cartierville
+05,Saint-Sulpice,2018,34,0.00347009593795,Ahuntsic-Cartierville
+06,La Visitation,2011,22,0.00251889168766,Ahuntsic-Cartierville
+06,La Visitation,2012,32,0.00366384245477,Ahuntsic-Cartierville
+06,La Visitation,2013,81,0.00927410121365,Ahuntsic-Cartierville
+06,La Visitation,2014,68,0.0077856652164,Ahuntsic-Cartierville
+06,La Visitation,2015,40,0.00457980306847,Ahuntsic-Cartierville
+06,La Visitation,2016,39,0.00446530799176,Ahuntsic-Cartierville
+06,La Visitation,2017,73,0.00835814059995,Ahuntsic-Cartierville
+06,La Visitation,2018,7,0.000801465536982,Ahuntsic-Cartierville
+07,Sainte-Lucie,2011,31,0.00331728196897,Villeray–Saint-Michel–Parc-Extension
+07,Sainte-Lucie,2012,31,0.00331728196897,Villeray–Saint-Michel–Parc-Extension
+07,Sainte-Lucie,2013,101,0.0108079186731,Villeray–Saint-Michel–Parc-Extension
+07,Sainte-Lucie,2014,72,0.00770465489567,Villeray–Saint-Michel–Parc-Extension
+07,Sainte-Lucie,2015,124,0.0132691278759,Villeray–Saint-Michel–Parc-Extension
+07,Sainte-Lucie,2016,108,0.0115569823435,Villeray–Saint-Michel–Parc-Extension
+07,Sainte-Lucie,2017,99,0.0105939004815,Villeray–Saint-Michel–Parc-Extension
+07,Sainte-Lucie,2018,15,0.0016051364366,Villeray–Saint-Michel–Parc-Extension
+08,René-Goupil,2011,24,0.00540662311331,Villeray–Saint-Michel–Parc-Extension
+08,René-Goupil,2012,32,0.00720883081775,Villeray–Saint-Michel–Parc-Extension
+08,René-Goupil,2013,90,0.0202748366749,Villeray–Saint-Michel–Parc-Extension
+08,René-Goupil,2014,87,0.0195990087858,Villeray–Saint-Michel–Parc-Extension
+08,René-Goupil,2015,75,0.0168956972291,Villeray–Saint-Michel–Parc-Extension
+08,René-Goupil,2016,52,0.0117143500788,Villeray–Saint-Michel–Parc-Extension
+08,René-Goupil,2017,34,0.00765938274386,Villeray–Saint-Michel–Parc-Extension
+08,René-Goupil,2018,11,0.0024780355936,Villeray–Saint-Michel–Parc-Extension
+09,Gabriel-Sagard,2011,60,0.00557154796174,Villeray–Saint-Michel–Parc-Extension
+09,Gabriel-Sagard,2012,99,0.00919305413687,Villeray–Saint-Michel–Parc-Extension
+09,Gabriel-Sagard,2013,143,0.0132788559755,Villeray–Saint-Michel–Parc-Extension
+09,Gabriel-Sagard,2014,216,0.0200575726623,Villeray–Saint-Michel–Parc-Extension
+09,Gabriel-Sagard,2015,185,0.0171789395487,Villeray–Saint-Michel–Parc-Extension
+09,Gabriel-Sagard,2016,149,0.0138360107717,Villeray–Saint-Michel–Parc-Extension
+09,Gabriel-Sagard,2017,207,0.019221840468,Villeray–Saint-Michel–Parc-Extension
+09,Gabriel-Sagard,2018,44,0.00408580183861,Villeray–Saint-Michel–Parc-Extension
+10,François-Perrault,2011,42,0.00577557755776,Villeray–Saint-Michel–Parc-Extension
+10,François-Perrault,2012,317,0.0435918591859,Villeray–Saint-Michel–Parc-Extension
+10,François-Perrault,2013,87,0.0119636963696,Villeray–Saint-Michel–Parc-Extension
+10,François-Perrault,2014,121,0.0166391639164,Villeray–Saint-Michel–Parc-Extension
+10,François-Perrault,2015,183,0.0251650165017,Villeray–Saint-Michel–Parc-Extension
+10,François-Perrault,2016,102,0.0140264026403,Villeray–Saint-Michel–Parc-Extension
+10,François-Perrault,2017,124,0.0170517051705,Villeray–Saint-Michel–Parc-Extension
+10,François-Perrault,2018,19,0.00261276127613,Villeray–Saint-Michel–Parc-Extension
+11,Parc-Extension,2011,267,0.0202779676464,Villeray–Saint-Michel–Parc-Extension
+11,Parc-Extension,2012,141,0.010708589656,Villeray–Saint-Michel–Parc-Extension
+11,Parc-Extension,2013,252,0.0191387559809,Villeray–Saint-Michel–Parc-Extension
+11,Parc-Extension,2014,390,0.0296195033037,Villeray–Saint-Michel–Parc-Extension
+11,Parc-Extension,2015,188,0.0142781195413,Villeray–Saint-Michel–Parc-Extension
+11,Parc-Extension,2016,614,0.0466317308423,Villeray–Saint-Michel–Parc-Extension
+11,Parc-Extension,2017,288,0.0218728639781,Villeray–Saint-Michel–Parc-Extension
+11,Parc-Extension,2018,76,0.00577200577201,Villeray–Saint-Michel–Parc-Extension
+12,Parc-Jarry,2011,18,0.00207972270364,Villeray–Saint-Michel–Parc-Extension
+12,Parc-Jarry,2012,34,0.00392836510687,Villeray–Saint-Michel–Parc-Extension
+12,Parc-Jarry,2013,74,0.00854997111496,Villeray–Saint-Michel–Parc-Extension
+12,Parc-Jarry,2014,70,0.00808781051415,Villeray–Saint-Michel–Parc-Extension
+12,Parc-Jarry,2015,47,0.0054303870595,Villeray–Saint-Michel–Parc-Extension
+12,Parc-Jarry,2016,101,0.0116695551704,Villeray–Saint-Michel–Parc-Extension
+12,Parc-Jarry,2017,63,0.00727902946274,Villeray–Saint-Michel–Parc-Extension
+12,Parc-Jarry,2018,12,0.00138648180243,Villeray–Saint-Michel–Parc-Extension
+13,Crémazie,2011,125,0.00736377025037,Villeray–Saint-Michel–Parc-Extension
+13,Crémazie,2012,221,0.0130191458027,Villeray–Saint-Michel–Parc-Extension
+13,Crémazie,2013,499,0.0293961708395,Villeray–Saint-Michel–Parc-Extension
+13,Crémazie,2014,567,0.0334020618557,Villeray–Saint-Michel–Parc-Extension
+13,Crémazie,2015,426,0.0250957290133,Villeray–Saint-Michel–Parc-Extension
+13,Crémazie,2016,393,0.0231516936672,Villeray–Saint-Michel–Parc-Extension
+13,Crémazie,2017,317,0.0186745213549,Villeray–Saint-Michel–Parc-Extension
+13,Crémazie,2018,108,0.00636229749632,Villeray–Saint-Michel–Parc-Extension
+14,Saint-Édouard,2011,65,0.00646187493787,Rosemont–La Petite-Patrie
+14,Saint-Édouard,2012,34,0.00338005765981,Rosemont–La Petite-Patrie
+14,Saint-Édouard,2013,141,0.0140172979421,Rosemont–La Petite-Patrie
+14,Saint-Édouard,2014,105,0.0104384133612,Rosemont–La Petite-Patrie
+14,Saint-Édouard,2015,170,0.016900288299,Rosemont–La Petite-Patrie
+14,Saint-Édouard,2016,114,0.0113331345064,Rosemont–La Petite-Patrie
+14,Saint-Édouard,2017,195,0.0193856248136,Rosemont–La Petite-Patrie
+14,Saint-Édouard,2018,37,0.00367829804155,Rosemont–La Petite-Patrie
+15,Père-Marquette,2011,97,0.00841137703781,Rosemont–La Petite-Patrie
+15,Père-Marquette,2012,62,0.00537634408602,Rosemont–La Petite-Patrie
+15,Père-Marquette,2013,232,0.020117932709,Rosemont–La Petite-Patrie
+15,Père-Marquette,2014,243,0.0210718002081,Rosemont–La Petite-Patrie
+15,Père-Marquette,2015,268,0.023239680888,Rosemont–La Petite-Patrie
+15,Père-Marquette,2016,205,0.0177766215747,Rosemont–La Petite-Patrie
+15,Père-Marquette,2017,386,0.0334720776968,Rosemont–La Petite-Patrie
+15,Père-Marquette,2018,134,0.011619840444,Rosemont–La Petite-Patrie
+16,Louis-Hébert,2011,78,0.00937725414763,Rosemont–La Petite-Patrie
+16,Louis-Hébert,2012,100,0.0120221207021,Rosemont–La Petite-Patrie
+16,Louis-Hébert,2013,153,0.0183938446742,Rosemont–La Petite-Patrie
+16,Louis-Hébert,2014,213,0.0256071170955,Rosemont–La Petite-Patrie
+16,Louis-Hébert,2015,282,0.0339023803799,Rosemont–La Petite-Patrie
+16,Louis-Hébert,2016,148,0.0177927386391,Rosemont–La Petite-Patrie
+16,Louis-Hébert,2017,143,0.017191632604,Rosemont–La Petite-Patrie
+16,Louis-Hébert,2018,34,0.00408752103871,Rosemont–La Petite-Patrie
+17,Étienne Desmarteaux,2011,45,0.00477099236641,Rosemont–La Petite-Patrie
+17,Étienne Desmarteaux,2012,71,0.00752756573367,Rosemont–La Petite-Patrie
+17,Étienne Desmarteaux,2013,181,0.0191899915182,Rosemont–La Petite-Patrie
+17,Étienne Desmarteaux,2014,183,0.0194020356234,Rosemont–La Petite-Patrie
+17,Étienne Desmarteaux,2015,177,0.0187659033079,Rosemont–La Petite-Patrie
+17,Étienne Desmarteaux,2016,119,0.0126166242578,Rosemont–La Petite-Patrie
+17,Étienne Desmarteaux,2017,380,0.040288379983,Rosemont–La Petite-Patrie
+17,Étienne Desmarteaux,2018,25,0.00265055131467,Rosemont–La Petite-Patrie
+18,Vieux-Rosemont,2011,131,0.00822760959678,Rosemont–La Petite-Patrie
+18,Vieux-Rosemont,2012,188,0.0118075618641,Rosemont–La Petite-Patrie
+18,Vieux-Rosemont,2013,373,0.0234267051878,Rosemont–La Petite-Patrie
+18,Vieux-Rosemont,2014,357,0.0224218063057,Rosemont–La Petite-Patrie
+18,Vieux-Rosemont,2015,449,0.0281999748775,Rosemont–La Petite-Patrie
+18,Vieux-Rosemont,2016,253,0.0158899635724,Rosemont–La Petite-Patrie
+18,Vieux-Rosemont,2017,211,0.013252104007,Rosemont–La Petite-Patrie
+18,Vieux-Rosemont,2018,69,0.00433362642884,Rosemont–La Petite-Patrie
+19,Petite-Côte,2011,46,0.00517435320585,Rosemont–La Petite-Patrie
+19,Petite-Côte,2012,72,0.00809898762655,Rosemont–La Petite-Patrie
+19,Petite-Côte,2013,369,0.0415073115861,Rosemont–La Petite-Patrie
+19,Petite-Côte,2014,129,0.0145106861642,Rosemont–La Petite-Patrie
+19,Petite-Côte,2015,113,0.0127109111361,Rosemont–La Petite-Patrie
+19,Petite-Côte,2016,114,0.0128233970754,Rosemont–La Petite-Patrie
+19,Petite-Côte,2017,76,0.00854893138358,Rosemont–La Petite-Patrie
+19,Petite-Côte,2018,11,0.00123734533183,Rosemont–La Petite-Patrie
+20,Marie-Victorin,2011,67,0.00433516661275,Rosemont–La Petite-Patrie
+20,Marie-Victorin,2012,148,0.00957618893562,Rosemont–La Petite-Patrie
+20,Marie-Victorin,2013,224,0.014493691362,Rosemont–La Petite-Patrie
+20,Marie-Victorin,2014,146,0.00944678097703,Rosemont–La Petite-Patrie
+20,Marie-Victorin,2015,186,0.0120349401488,Rosemont–La Petite-Patrie
+20,Marie-Victorin,2016,203,0.0131349077968,Rosemont–La Petite-Patrie
+20,Marie-Victorin,2017,202,0.0130702038175,Rosemont–La Petite-Patrie
+20,Marie-Victorin,2018,38,0.0024587512132,Rosemont–La Petite-Patrie
+21,Louis-Riel,2011,35,0.00350982751705,Mercier–Hochelaga-Maisonneuve
+21,Louis-Riel,2012,31,0.00310870437224,Mercier–Hochelaga-Maisonneuve
+21,Louis-Riel,2013,57,0.00571600481348,Mercier–Hochelaga-Maisonneuve
+21,Louis-Riel,2014,29,0.00290814279984,Mercier–Hochelaga-Maisonneuve
+21,Louis-Riel,2015,142,0.0142398716406,Mercier–Hochelaga-Maisonneuve
+21,Louis-Riel,2016,105,0.0105294825511,Mercier–Hochelaga-Maisonneuve
+21,Louis-Riel,2017,19,0.00190533493783,Mercier–Hochelaga-Maisonneuve
+21,Louis-Riel,2018,21,0.00210589651023,Mercier–Hochelaga-Maisonneuve
+22,Dupéré,2011,21,0.00386526780784,Mercier–Hochelaga-Maisonneuve
+22,Dupéré,2012,11,0.00202466408982,Mercier–Hochelaga-Maisonneuve
+22,Dupéré,2013,75,0.0138045278851,Mercier–Hochelaga-Maisonneuve
+22,Dupéré,2014,30,0.00552181115406,Mercier–Hochelaga-Maisonneuve
+22,Dupéré,2015,21,0.00386526780784,Mercier–Hochelaga-Maisonneuve
+22,Dupéré,2016,23,0.00423338855144,Mercier–Hochelaga-Maisonneuve
+22,Dupéré,2017,7,0.00128842260261,Mercier–Hochelaga-Maisonneuve
+22,Dupéré,2018,2,0.000368120743604,Mercier–Hochelaga-Maisonneuve
+23,Tétreaultville,2011,3,0.000311429461227,Mercier–Hochelaga-Maisonneuve
+23,Tétreaultville,2012,68,0.00705906778781,Mercier–Hochelaga-Maisonneuve
+23,Tétreaultville,2013,86,0.00892764455517,Mercier–Hochelaga-Maisonneuve
+23,Tétreaultville,2014,70,0.00726668742863,Mercier–Hochelaga-Maisonneuve
+23,Tétreaultville,2015,71,0.00737049724904,Mercier–Hochelaga-Maisonneuve
+23,Tétreaultville,2016,90,0.00934288383681,Mercier–Hochelaga-Maisonneuve
+23,Tétreaultville,2017,38,0.00394477317554,Mercier–Hochelaga-Maisonneuve
+23,Tétreaultville,2018,10,0.00103809820409,Mercier–Hochelaga-Maisonneuve
+24,Beaurivage,2011,22,0.0031654676259,Mercier–Hochelaga-Maisonneuve
+24,Beaurivage,2012,99,0.0142446043165,Mercier–Hochelaga-Maisonneuve
+24,Beaurivage,2013,55,0.00791366906475,Mercier–Hochelaga-Maisonneuve
+24,Beaurivage,2014,71,0.0102158273381,Mercier–Hochelaga-Maisonneuve
+24,Beaurivage,2015,81,0.011654676259,Mercier–Hochelaga-Maisonneuve
+24,Beaurivage,2016,39,0.00561151079137,Mercier–Hochelaga-Maisonneuve
+24,Beaurivage,2017,66,0.0094964028777,Mercier–Hochelaga-Maisonneuve
+24,Beaurivage,2018,19,0.00273381294964,Mercier–Hochelaga-Maisonneuve
+25,Guybourg,2011,5,0.00281373100732,Mercier–Hochelaga-Maisonneuve
+25,Guybourg,2012,10,0.00562746201463,Mercier–Hochelaga-Maisonneuve
+25,Guybourg,2013,15,0.00844119302195,Mercier–Hochelaga-Maisonneuve
+25,Guybourg,2014,13,0.00731570061902,Mercier–Hochelaga-Maisonneuve
+25,Guybourg,2015,10,0.00562746201463,Mercier–Hochelaga-Maisonneuve
+25,Guybourg,2016,40,0.0225098480585,Mercier–Hochelaga-Maisonneuve
+25,Guybourg,2017,80,0.0450196961171,Mercier–Hochelaga-Maisonneuve
+25,Guybourg,2018,2,0.00112549240293,Mercier–Hochelaga-Maisonneuve
+26,Longue-Pointe,2011,37,0.00350977044204,Mercier–Hochelaga-Maisonneuve
+26,Longue-Pointe,2012,109,0.0103395940049,Mercier–Hochelaga-Maisonneuve
+26,Longue-Pointe,2013,134,0.0127110605198,Mercier–Hochelaga-Maisonneuve
+26,Longue-Pointe,2014,131,0.012426484538,Mercier–Hochelaga-Maisonneuve
+26,Longue-Pointe,2015,147,0.0139442231076,Mercier–Hochelaga-Maisonneuve
+26,Longue-Pointe,2016,91,0.00863213811421,Mercier–Hochelaga-Maisonneuve
+26,Longue-Pointe,2017,78,0.00739897552647,Mercier–Hochelaga-Maisonneuve
+26,Longue-Pointe,2018,39,0.00369948776323,Mercier–Hochelaga-Maisonneuve
+27,Hochelaga,2011,92,0.0140996168582,Mercier–Hochelaga-Maisonneuve
+27,Hochelaga,2012,168,0.0257471264368,Mercier–Hochelaga-Maisonneuve
+27,Hochelaga,2013,320,0.0490421455939,Mercier–Hochelaga-Maisonneuve
+27,Hochelaga,2014,187,0.0286590038314,Mercier–Hochelaga-Maisonneuve
+27,Hochelaga,2015,185,0.0283524904215,Mercier–Hochelaga-Maisonneuve
+27,Hochelaga,2016,235,0.0360153256705,Mercier–Hochelaga-Maisonneuve
+27,Hochelaga,2017,118,0.0180842911877,Mercier–Hochelaga-Maisonneuve
+27,Hochelaga,2018,28,0.00429118773946,Mercier–Hochelaga-Maisonneuve
+28,Maisonneuve,2011,166,0.0138912133891,Mercier–Hochelaga-Maisonneuve
+28,Maisonneuve,2012,238,0.0199163179916,Mercier–Hochelaga-Maisonneuve
+28,Maisonneuve,2013,509,0.0425941422594,Mercier–Hochelaga-Maisonneuve
+28,Maisonneuve,2014,504,0.0421757322176,Mercier–Hochelaga-Maisonneuve
+28,Maisonneuve,2015,433,0.0362343096234,Mercier–Hochelaga-Maisonneuve
+28,Maisonneuve,2016,293,0.0245188284519,Mercier–Hochelaga-Maisonneuve
+28,Maisonneuve,2017,165,0.0138075313808,Mercier–Hochelaga-Maisonneuve
+28,Maisonneuve,2018,77,0.00644351464435,Mercier–Hochelaga-Maisonneuve
+29,Préfontaine,2011,154,0.0158371040724,Mercier–Hochelaga-Maisonneuve
+29,Préfontaine,2012,172,0.0176881941588,Mercier–Hochelaga-Maisonneuve
+29,Préfontaine,2013,223,0.0229329494035,Mercier–Hochelaga-Maisonneuve
+29,Préfontaine,2014,191,0.0196421225833,Mercier–Hochelaga-Maisonneuve
+29,Préfontaine,2015,182,0.0187165775401,Mercier–Hochelaga-Maisonneuve
+29,Préfontaine,2016,173,0.0177910324969,Mercier–Hochelaga-Maisonneuve
+29,Préfontaine,2017,120,0.0123406005759,Mercier–Hochelaga-Maisonneuve
+29,Préfontaine,2018,32,0.00329082682024,Mercier–Hochelaga-Maisonneuve
+30,Sainte-Marie,2011,282,0.013698630137,Ville-Marie
+30,Sainte-Marie,2012,351,0.0170504226173,Ville-Marie
+30,Sainte-Marie,2013,835,0.0405615466822,Ville-Marie
+30,Sainte-Marie,2014,518,0.0251627319538,Ville-Marie
+30,Sainte-Marie,2015,594,0.0288545613524,Ville-Marie
+30,Sainte-Marie,2016,835,0.0405615466822,Ville-Marie
+30,Sainte-Marie,2017,389,0.0188963373166,Ville-Marie
+30,Sainte-Marie,2018,81,0.00393471291169,Ville-Marie
+31,Lorimier,2011,157,0.0132926932521,Le Plateau-Mont-Royal
+31,Lorimier,2012,178,0.0150706968081,Le Plateau-Mont-Royal
+31,Lorimier,2013,272,0.0230293793921,Le Plateau-Mont-Royal
+31,Lorimier,2014,298,0.0252307171281,Le Plateau-Mont-Royal
+31,Lorimier,2015,244,0.0206587079841,Le Plateau-Mont-Royal
+31,Lorimier,2016,308,0.0260773854881,Le Plateau-Mont-Royal
+31,Lorimier,2017,432,0.0365760731521,Le Plateau-Mont-Royal
+31,Lorimier,2018,79,0.00668868004403,Le Plateau-Mont-Royal
+32,Parc-Lafontaine,2011,87,0.00877016129032,Le Plateau-Mont-Royal
+32,Parc-Lafontaine,2012,135,0.0136088709677,Le Plateau-Mont-Royal
+32,Parc-Lafontaine,2013,282,0.0284274193548,Le Plateau-Mont-Royal
+32,Parc-Lafontaine,2014,384,0.0387096774194,Le Plateau-Mont-Royal
+32,Parc-Lafontaine,2015,220,0.0221774193548,Le Plateau-Mont-Royal
+32,Parc-Lafontaine,2016,233,0.0234879032258,Le Plateau-Mont-Royal
+32,Parc-Lafontaine,2017,203,0.0204637096774,Le Plateau-Mont-Royal
+32,Parc-Lafontaine,2018,52,0.00524193548387,Le Plateau-Mont-Royal
+33,Parc-Laurier,2011,67,0.00599767254498,Le Plateau-Mont-Royal
+33,Parc-Laurier,2012,170,0.0152179751141,Le Plateau-Mont-Royal
+33,Parc-Laurier,2013,273,0.0244382776833,Le Plateau-Mont-Royal
+33,Parc-Laurier,2014,164,0.0146808701101,Le Plateau-Mont-Royal
+33,Parc-Laurier,2015,240,0.0214842001611,Le Plateau-Mont-Royal
+33,Parc-Laurier,2016,277,0.024796347686,Le Plateau-Mont-Royal
+33,Parc-Laurier,2017,247,0.0221108226658,Le Plateau-Mont-Royal
+33,Parc-Laurier,2018,122,0.0109211350819,Le Plateau-Mont-Royal
+34,Mile End,2011,61,0.00438501904967,Le Plateau-Mont-Royal
+34,Mile End,2012,124,0.00891380921573,Le Plateau-Mont-Royal
+34,Mile End,2013,184,0.0132269427072,Le Plateau-Mont-Royal
+34,Mile End,2014,138,0.00992020703041,Le Plateau-Mont-Royal
+34,Mile End,2015,459,0.0329954712098,Le Plateau-Mont-Royal
+34,Mile End,2016,99,0.00711667026094,Le Plateau-Mont-Royal
+34,Mile End,2017,70,0.0050319890734,Le Plateau-Mont-Royal
+34,Mile End,2018,23,0.0016533678384,Le Plateau-Mont-Royal
+35,Saint-Louis,2011,34,0.00367289618667,Le Plateau-Mont-Royal
+35,Saint-Louis,2012,60,0.00648158150589,Le Plateau-Mont-Royal
+35,Saint-Louis,2013,175,0.0189046127255,Le Plateau-Mont-Royal
+35,Saint-Louis,2014,196,0.0211731662526,Le Plateau-Mont-Royal
+35,Saint-Louis,2015,117,0.0126390839365,Le Plateau-Mont-Royal
+35,Saint-Louis,2016,122,0.0131792157286,Le Plateau-Mont-Royal
+35,Saint-Louis,2017,54,0.0058334233553,Le Plateau-Mont-Royal
+35,Saint-Louis,2018,47,0.00507723884628,Le Plateau-Mont-Royal
+36,Milton-Parc,2011,39,0.00396140172676,Le Plateau-Mont-Royal
+36,Milton-Parc,2012,70,0.00711020822753,Le Plateau-Mont-Royal
+36,Milton-Parc,2013,173,0.0175723717623,Le Plateau-Mont-Royal
+36,Milton-Parc,2014,87,0.00883697308278,Le Plateau-Mont-Royal
+36,Milton-Parc,2015,139,0.0141188420518,Le Plateau-Mont-Royal
+36,Milton-Parc,2016,138,0.0140172676486,Le Plateau-Mont-Royal
+36,Milton-Parc,2017,84,0.00853224987303,Le Plateau-Mont-Royal
+36,Milton-Parc,2018,15,0.00152361604876,Le Plateau-Mont-Royal
+37,Vieux-Montréal,2011,23,0.00274495763218,Ville-Marie
+37,Vieux-Montréal,2012,25,0.00298364960019,Ville-Marie
+37,Vieux-Montréal,2013,104,0.0124119823368,Ville-Marie
+37,Vieux-Montréal,2014,97,0.0115765604487,Ville-Marie
+37,Vieux-Montréal,2015,93,0.0110991765127,Ville-Marie
+37,Vieux-Montréal,2016,69,0.00823487289653,Ville-Marie
+37,Vieux-Montréal,2017,44,0.00525122329634,Ville-Marie
+37,Vieux-Montréal,2018,9,0.00107411385607,Ville-Marie
+38,René-Lévesque,2011,97,0.00575360341657,Ville-Marie
+38,René-Lévesque,2012,160,0.00949047986239,Ville-Marie
+38,René-Lévesque,2013,1164,0.0690432409989,Ville-Marie
+38,René-Lévesque,2014,382,0.0226585206715,Ville-Marie
+38,René-Lévesque,2015,302,0.0179132807403,Ville-Marie
+38,René-Lévesque,2016,248,0.0147102437867,Ville-Marie
+38,René-Lévesque,2017,129,0.00765169938905,Ville-Marie
+38,René-Lévesque,2018,44,0.00260988196216,Ville-Marie
+39,Montagne,2011,64,0.00320834168839,Ville-Marie
+39,Montagne,2012,278,0.0139362342089,Ville-Marie
+39,Montagne,2013,235,0.0117806296371,Ville-Marie
+39,Montagne,2014,312,0.0156406657309,Ville-Marie
+39,Montagne,2015,457,0.0229095648687,Ville-Marie
+39,Montagne,2016,151,0.00756968117104,Ville-Marie
+39,Montagne,2017,103,0.00516342490475,Ville-Marie
+39,Montagne,2018,147,0.00736915981552,Ville-Marie
+40,Snowdon,2011,50,0.00459727841118,Côte-des-Neiges–Notre-Dame-de-Grâce
+40,Snowdon,2012,93,0.0085509378448,Côte-des-Neiges–Notre-Dame-de-Grâce
+40,Snowdon,2013,57,0.00524089738875,Côte-des-Neiges–Notre-Dame-de-Grâce
+40,Snowdon,2014,68,0.00625229863921,Côte-des-Neiges–Notre-Dame-de-Grâce
+40,Snowdon,2015,63,0.00579257079809,Côte-des-Neiges–Notre-Dame-de-Grâce
+40,Snowdon,2016,53,0.00487311511585,Côte-des-Neiges–Notre-Dame-de-Grâce
+40,Snowdon,2017,75,0.00689591761677,Côte-des-Neiges–Notre-Dame-de-Grâce
+40,Snowdon,2018,71,0.00652813534388,Côte-des-Neiges–Notre-Dame-de-Grâce
+41,Édouard-Montpetit,2011,57,0.00465648231354,Côte-des-Neiges–Notre-Dame-de-Grâce
+41,Édouard-Montpetit,2012,70,0.00571848705171,Côte-des-Neiges–Notre-Dame-de-Grâce
+41,Édouard-Montpetit,2013,87,0.00710726247856,Côte-des-Neiges–Notre-Dame-de-Grâce
+41,Édouard-Montpetit,2014,118,0.00963973531574,Côte-des-Neiges–Notre-Dame-de-Grâce
+41,Édouard-Montpetit,2015,106,0.00865942324973,Côte-des-Neiges–Notre-Dame-de-Grâce
+41,Édouard-Montpetit,2016,120,0.00980312066008,Côte-des-Neiges–Notre-Dame-de-Grâce
+41,Édouard-Montpetit,2017,132,0.0107834327261,Côte-des-Neiges–Notre-Dame-de-Grâce
+41,Édouard-Montpetit,2018,37,0.00302262887019,Côte-des-Neiges–Notre-Dame-de-Grâce
+42,Parc-Kent,2011,59,0.00436358257525,Côte-des-Neiges–Notre-Dame-de-Grâce
+42,Parc-Kent,2012,104,0.00769173877672,Côte-des-Neiges–Notre-Dame-de-Grâce
+42,Parc-Kent,2013,178,0.0131647067525,Côte-des-Neiges–Notre-Dame-de-Grâce
+42,Parc-Kent,2014,278,0.0205606094224,Côte-des-Neiges–Notre-Dame-de-Grâce
+42,Parc-Kent,2015,363,0.0268471266918,Côte-des-Neiges–Notre-Dame-de-Grâce
+42,Parc-Kent,2016,405,0.0299534058132,Côte-des-Neiges–Notre-Dame-de-Grâce
+42,Parc-Kent,2017,200,0.0147918053398,Côte-des-Neiges–Notre-Dame-de-Grâce
+42,Parc-Kent,2018,36,0.00266252496117,Côte-des-Neiges–Notre-Dame-de-Grâce
+43,Savane,2011,49,0.00370090634441,Côte-des-Neiges–Notre-Dame-de-Grâce
+43,Savane,2012,62,0.00468277945619,Côte-des-Neiges–Notre-Dame-de-Grâce
+43,Savane,2013,50,0.00377643504532,Côte-des-Neiges–Notre-Dame-de-Grâce
+43,Savane,2014,255,0.0192598187311,Côte-des-Neiges–Notre-Dame-de-Grâce
+43,Savane,2015,154,0.0116314199396,Côte-des-Neiges–Notre-Dame-de-Grâce
+43,Savane,2016,221,0.0166918429003,Côte-des-Neiges–Notre-Dame-de-Grâce
+43,Savane,2017,159,0.0120090634441,Côte-des-Neiges–Notre-Dame-de-Grâce
+43,Savane,2018,26,0.00196374622356,Côte-des-Neiges–Notre-Dame-de-Grâce
+44,Upper Lachine,2011,69,0.00584795321637,Côte-des-Neiges–Notre-Dame-de-Grâce
+44,Upper Lachine,2012,47,0.00398338842275,Côte-des-Neiges–Notre-Dame-de-Grâce
+44,Upper Lachine,2013,279,0.023646071701,Côte-des-Neiges–Notre-Dame-de-Grâce
+44,Upper Lachine,2014,188,0.015933553691,Côte-des-Neiges–Notre-Dame-de-Grâce
+44,Upper Lachine,2015,215,0.0182218832104,Côte-des-Neiges–Notre-Dame-de-Grâce
+44,Upper Lachine,2016,393,0.0333079074498,Côte-des-Neiges–Notre-Dame-de-Grâce
+44,Upper Lachine,2017,223,0.0188999067718,Côte-des-Neiges–Notre-Dame-de-Grâce
+44,Upper Lachine,2018,63,0.00533943554539,Côte-des-Neiges–Notre-Dame-de-Grâce
+45,Loyola,2011,34,0.00270808442851,Côte-des-Neiges–Notre-Dame-de-Grâce
+45,Loyola,2012,48,0.00382317801673,Côte-des-Neiges–Notre-Dame-de-Grâce
+45,Loyola,2013,107,0.00852250099562,Côte-des-Neiges–Notre-Dame-de-Grâce
+45,Loyola,2014,96,0.00764635603345,Côte-des-Neiges–Notre-Dame-de-Grâce
+45,Loyola,2015,125,0.00995619275189,Côte-des-Neiges–Notre-Dame-de-Grâce
+45,Loyola,2016,150,0.0119474313023,Côte-des-Neiges–Notre-Dame-de-Grâce
+45,Loyola,2017,91,0.00724810832338,Côte-des-Neiges–Notre-Dame-de-Grâce
+45,Loyola,2018,25,0.00199123855038,Côte-des-Neiges–Notre-Dame-de-Grâce
+46,Côte-Saint-Antoine,2011,17,0.00167834929411,Côte-des-Neiges–Notre-Dame-de-Grâce
+46,Côte-Saint-Antoine,2012,6,0.00059235857439,Côte-des-Neiges–Notre-Dame-de-Grâce
+46,Côte-Saint-Antoine,2013,40,0.0039490571626,Côte-des-Neiges–Notre-Dame-de-Grâce
+46,Côte-Saint-Antoine,2014,31,0.00306051930102,Côte-des-Neiges–Notre-Dame-de-Grâce
+46,Côte-Saint-Antoine,2015,98,0.00967519004838,Côte-des-Neiges–Notre-Dame-de-Grâce
+46,Côte-Saint-Antoine,2016,87,0.00858919932866,Côte-des-Neiges–Notre-Dame-de-Grâce
+46,Côte-Saint-Antoine,2017,64,0.00631849146016,Côte-des-Neiges–Notre-Dame-de-Grâce
+46,Côte-Saint-Antoine,2018,14,0.00138217000691,Côte-des-Neiges–Notre-Dame-de-Grâce
+47,Pointe-Saint-Charles,2011,25,0.00300264232525,Le Sud-Ouest
+47,Pointe-Saint-Charles,2012,169,0.0202978621187,Le Sud-Ouest
+47,Pointe-Saint-Charles,2013,217,0.0260629353831,Le Sud-Ouest
+47,Pointe-Saint-Charles,2014,115,0.0138121546961,Le Sud-Ouest
+47,Pointe-Saint-Charles,2015,209,0.0251020898391,Le Sud-Ouest
+47,Pointe-Saint-Charles,2016,118,0.0141724717752,Le Sud-Ouest
+47,Pointe-Saint-Charles,2017,51,0.0061253903435,Le Sud-Ouest
+47,Pointe-Saint-Charles,2018,11,0.00132116262311,Le Sud-Ouest
+48,Côte-Saint-Paul,2011,9,0.00100896860987,Le Sud-Ouest
+48,Côte-Saint-Paul,2012,67,0.00751121076233,Le Sud-Ouest
+48,Côte-Saint-Paul,2013,48,0.00538116591928,Le Sud-Ouest
+48,Côte-Saint-Paul,2014,36,0.00403587443946,Le Sud-Ouest
+48,Côte-Saint-Paul,2015,48,0.00538116591928,Le Sud-Ouest
+48,Côte-Saint-Paul,2016,97,0.0108744394619,Le Sud-Ouest
+48,Côte-Saint-Paul,2017,37,0.00414798206278,Le Sud-Ouest
+48,Côte-Saint-Paul,2018,11,0.0012331838565,Le Sud-Ouest
+49,Ville-Émard,2011,5,0.000716537689882,Le Sud-Ouest
+49,Ville-Émard,2012,28,0.00401261106334,Le Sud-Ouest
+49,Ville-Émard,2013,27,0.00386930352537,Le Sud-Ouest
+49,Ville-Émard,2014,25,0.00358268844941,Le Sud-Ouest
+49,Ville-Émard,2015,26,0.00372599598739,Le Sud-Ouest
+49,Ville-Émard,2016,14,0.00200630553167,Le Sud-Ouest
+49,Ville-Émard,2017,13,0.00186299799369,Le Sud-Ouest
+49,Ville-Émard,2018,5,0.000716537689882,Le Sud-Ouest
+50,Saint-Henri,2011,33,0.00327543424318,Le Sud-Ouest
+50,Saint-Henri,2012,111,0.011017369727,Le Sud-Ouest
+50,Saint-Henri,2013,214,0.0212406947891,Le Sud-Ouest
+50,Saint-Henri,2014,125,0.0124069478908,Le Sud-Ouest
+50,Saint-Henri,2015,75,0.00744416873449,Le Sud-Ouest
+50,Saint-Henri,2016,55,0.00545905707196,Le Sud-Ouest
+50,Saint-Henri,2017,32,0.00317617866005,Le Sud-Ouest
+50,Saint-Henri,2018,27,0.00267990074442,Le Sud-Ouest
+51,Petite-Bourgogne,2011,10,0.00106405618217,Le Sud-Ouest
+51,Petite-Bourgogne,2012,94,0.0100021281124,Le Sud-Ouest
+51,Petite-Bourgogne,2013,185,0.0196850393701,Le Sud-Ouest
+51,Petite-Bourgogne,2014,68,0.00723558203873,Le Sud-Ouest
+51,Petite-Bourgogne,2015,123,0.0130878910406,Le Sud-Ouest
+51,Petite-Bourgogne,2016,26,0.00276654607363,Le Sud-Ouest
+51,Petite-Bourgogne,2017,11,0.00117046180038,Le Sud-Ouest
+51,Petite-Bourgogne,2018,,,Le Sud-Ouest
+52,Marc-Aurèle-Fortin,2011,20,0.00133877769596,Rivière-des-Prairies–Pointe-aux-Trembles
+52,Marc-Aurèle-Fortin,2012,51,0.00341388312471,Rivière-des-Prairies–Pointe-aux-Trembles
+52,Marc-Aurèle-Fortin,2013,101,0.00676082736462,Rivière-des-Prairies–Pointe-aux-Trembles
+52,Marc-Aurèle-Fortin,2014,72,0.00481959970547,Rivière-des-Prairies–Pointe-aux-Trembles
+52,Marc-Aurèle-Fortin,2015,83,0.00555592743825,Rivière-des-Prairies–Pointe-aux-Trembles
+52,Marc-Aurèle-Fortin,2016,36,0.00240979985273,Rivière-des-Prairies–Pointe-aux-Trembles
+52,Marc-Aurèle-Fortin,2017,78,0.00522123301426,Rivière-des-Prairies–Pointe-aux-Trembles
+52,Marc-Aurèle-Fortin,2018,20,0.00133877769596,Rivière-des-Prairies–Pointe-aux-Trembles
+53,Rivière-des-Prairies,2011,2,0.000276625172891,Rivière-des-Prairies–Pointe-aux-Trembles
+53,Rivière-des-Prairies,2012,1,0.000138312586445,Rivière-des-Prairies–Pointe-aux-Trembles
+53,Rivière-des-Prairies,2013,1,0.000138312586445,Rivière-des-Prairies–Pointe-aux-Trembles
+53,Rivière-des-Prairies,2014,9,0.00124481327801,Rivière-des-Prairies–Pointe-aux-Trembles
+53,Rivière-des-Prairies,2015,15,0.00207468879668,Rivière-des-Prairies–Pointe-aux-Trembles
+53,Rivière-des-Prairies,2016,5,0.000691562932227,Rivière-des-Prairies–Pointe-aux-Trembles
+53,Rivière-des-Prairies,2017,5,0.000691562932227,Rivière-des-Prairies–Pointe-aux-Trembles
+53,Rivière-des-Prairies,2018,2,0.000276625172891,Rivière-des-Prairies–Pointe-aux-Trembles
+54,Pointe-aux-Trembles,2011,14,0.000612450238418,Rivière-des-Prairies–Pointe-aux-Trembles
+54,Pointe-aux-Trembles,2012,21,0.000918675357627,Rivière-des-Prairies–Pointe-aux-Trembles
+54,Pointe-aux-Trembles,2013,75,0.0032809834201,Rivière-des-Prairies–Pointe-aux-Trembles
+54,Pointe-aux-Trembles,2014,108,0.00472461612494,Rivière-des-Prairies–Pointe-aux-Trembles
+54,Pointe-aux-Trembles,2015,128,0.00559954503697,Rivière-des-Prairies–Pointe-aux-Trembles
+54,Pointe-aux-Trembles,2016,95,0.00415591233212,Rivière-des-Prairies–Pointe-aux-Trembles
+54,Pointe-aux-Trembles,2017,58,0.00253729384488,Rivière-des-Prairies–Pointe-aux-Trembles
+54,Pointe-aux-Trembles,2018,32,0.00139988625924,Rivière-des-Prairies–Pointe-aux-Trembles
+55,Chameran/Montpellier,2011,35,0.00367454068241,Saint-Laurent
+55,Chameran/Montpellier,2012,60,0.00629921259843,Saint-Laurent
+55,Chameran/Montpellier,2013,213,0.0223622047244,Saint-Laurent
+55,Chameran/Montpellier,2014,218,0.0228871391076,Saint-Laurent
+55,Chameran/Montpellier,2015,160,0.0167979002625,Saint-Laurent
+55,Chameran/Montpellier,2016,75,0.00787401574803,Saint-Laurent
+55,Chameran/Montpellier,2017,124,0.0130183727034,Saint-Laurent
+55,Chameran/Montpellier,2018,23,0.00241469816273,Saint-Laurent
+56,Grenet,2011,23,0.00483294809834,Saint-Laurent
+56,Grenet,2012,26,0.00546333263291,Saint-Laurent
+56,Grenet,2013,64,0.0134482034041,Saint-Laurent
+56,Grenet,2014,137,0.0287875604119,Saint-Laurent
+56,Grenet,2015,225,0.0472788400925,Saint-Laurent
+56,Grenet,2016,15,0.00315192267283,Saint-Laurent
+56,Grenet,2017,272,0.0571548644673,Saint-Laurent
+56,Grenet,2018,4,0.000840512712755,Saint-Laurent
+57,Dutrisac,2011,6,0.00140088722858,Saint-Laurent
+57,Dutrisac,2012,9,0.00210133084287,Saint-Laurent
+57,Dutrisac,2013,40,0.00933924819052,Saint-Laurent
+57,Dutrisac,2014,20,0.00466962409526,Saint-Laurent
+57,Dutrisac,2015,12,0.00280177445716,Saint-Laurent
+57,Dutrisac,2016,6,0.00140088722858,Saint-Laurent
+57,Dutrisac,2017,4,0.000933924819052,Saint-Laurent
+58,Bois-Francs,2011,3,0.000218451904172,Saint-Laurent
+58,Bois-Francs,2012,8,0.000582538411126,Saint-Laurent
+58,Bois-Francs,2013,18,0.00131071142503,Saint-Laurent
+58,Bois-Francs,2014,12,0.00087380761669,Saint-Laurent
+58,Bois-Francs,2015,4,0.000291269205563,Saint-Laurent
+58,Bois-Francs,2016,4,0.000291269205563,Saint-Laurent
+58,Bois-Francs,2017,8,0.000582538411126,Saint-Laurent
+59,Du College/Hodge,2011,9,0.000951977998731,Saint-Laurent
+59,Du College/Hodge,2012,43,0.00454833932727,Saint-Laurent
+59,Du College/Hodge,2013,30,0.00317325999577,Saint-Laurent
+59,Du College/Hodge,2014,10,0.00105775333192,Saint-Laurent
+59,Du College/Hodge,2015,8,0.000846202665538,Saint-Laurent
+59,Du College/Hodge,2016,25,0.00264438332981,Saint-Laurent
+59,Du College/Hodge,2017,25,0.00264438332981,Saint-Laurent
+59,Du College/Hodge,2018,2,0.000211550666385,Saint-Laurent
+60A,Ouest,2011,49,0.00444888323951,Montréal-Nord
+60A,Ouest,2012,61,0.00553840566552,Montréal-Nord
+60A,Ouest,2013,58,0.00526602505902,Montréal-Nord
+60A,Ouest,2014,104,0.00944252769203,Montréal-Nord
+60A,Ouest,2015,95,0.00862538587253,Montréal-Nord
+60A,Ouest,2016,48,0.00435808970401,Montréal-Nord
+60A,Ouest,2017,80,0.00726348284002,Montréal-Nord
+60A,Ouest,2018,36,0.00326856727801,Montréal-Nord
+60B,Centre-Nord,2011,17,0.00297879796741,Montréal-Nord
+60B,Centre-Nord,2012,33,0.00578237252497,Montréal-Nord
+60B,Centre-Nord,2013,69,0.0120904152795,Montréal-Nord
+60B,Centre-Nord,2014,65,0.0113895216401,Montréal-Nord
+60B,Centre-Nord,2015,24,0.00420536183634,Montréal-Nord
+60B,Centre-Nord,2016,33,0.00578237252497,Montréal-Nord
+60B,Centre-Nord,2017,71,0.0124408620992,Montréal-Nord
+60B,Centre-Nord,2018,16,0.00280357455756,Montréal-Nord
+60C,Centre,2011,71,0.0083021515435,Montréal-Nord
+60C,Centre,2012,107,0.0125116931712,Montréal-Nord
+60C,Centre,2013,122,0.0142656688494,Montréal-Nord
+60C,Centre,2014,75,0.00876987839102,Montréal-Nord
+60C,Centre,2015,99,0.0115762394761,Montréal-Nord
+60C,Centre,2016,98,0.0114593077643,Montréal-Nord
+60C,Centre,2017,120,0.0140318054256,Montréal-Nord
+60C,Centre,2018,223,0.0260757717493,Montréal-Nord
+61,Est,2011,134,0.00940879090015,Montréal-Nord
+61,Est,2012,113,0.00793427889341,Montréal-Nord
+61,Est,2013,363,0.0254879932594,Montréal-Nord
+61,Est,2014,282,0.0198005898048,Montréal-Nord
+61,Est,2015,345,0.024224125825,Montréal-Nord
+61,Est,2016,240,0.0168515657913,Montréal-Nord
+61,Est,2017,165,0.0115854514815,Montréal-Nord
+61,Est,2018,68,0.00477461030754,Montréal-Nord
+62,Port-Maurice,2011,16,0.000860168808129,Saint-Léonard
+62,Port-Maurice,2012,130,0.00698887156604,Saint-Léonard
+62,Port-Maurice,2013,246,0.013225095425,Saint-Léonard
+62,Port-Maurice,2014,181,0.00973065964195,Saint-Léonard
+62,Port-Maurice,2015,52,0.00279554862642,Saint-Léonard
+62,Port-Maurice,2016,52,0.00279554862642,Saint-Léonard
+62,Port-Maurice,2017,52,0.00279554862642,Saint-Léonard
+62,Port-Maurice,2018,8,0.000430084404064,Saint-Léonard
+63,Grande-Prairie,2011,54,0.00368877655578,Saint-Léonard
+63,Grande-Prairie,2012,30,0.00204932030876,Saint-Léonard
+63,Grande-Prairie,2013,520,0.0355215520186,Saint-Léonard
+63,Grande-Prairie,2014,418,0.0285538629688,Saint-Léonard
+63,Grande-Prairie,2015,318,0.0217227952729,Saint-Léonard
+63,Grande-Prairie,2016,94,0.00642120363413,Saint-Léonard
+63,Grande-Prairie,2017,59,0.00403032994057,Saint-Léonard
+63,Grande-Prairie,2018,31,0.00211763098572,Saint-Léonard
+64,Verdun-Centre,2011,90,0.00525547445255,Verdun
+64,Verdun-Centre,2012,126,0.00735766423358,Verdun
+64,Verdun-Centre,2013,202,0.011795620438,Verdun
+64,Verdun-Centre,2014,124,0.00724087591241,Verdun
+64,Verdun-Centre,2015,204,0.0119124087591,Verdun
+64,Verdun-Centre,2016,125,0.00729927007299,Verdun
+64,Verdun-Centre,2017,115,0.00671532846715,Verdun
+64,Verdun-Centre,2018,34,0.00198540145985,Verdun
+65,Ile-des-Soeurs,2011,3,0.000277726346973,Verdun
+65,Ile-des-Soeurs,2012,2,0.000185150897982,Verdun
+65,Ile-des-Soeurs,2013,2,0.000185150897982,Verdun
+65,Ile-des-Soeurs,2014,2,0.000185150897982,Verdun
+65,Ile-des-Soeurs,2015,1,9.25754489909e-05,Verdun
+65,Ile-des-Soeurs,2016,4,0.000370301795964,Verdun
+65,Ile-des-Soeurs,2017,64,0.00592482873542,Verdun
+66,Desmarchais-Crawford,2011,9,0.00096576885932,Verdun
+66,Desmarchais-Crawford,2012,125,0.0134134563794,Verdun
+66,Desmarchais-Crawford,2013,56,0.00600922845799,Verdun
+66,Desmarchais-Crawford,2014,35,0.00375576778624,Verdun
+66,Desmarchais-Crawford,2015,43,0.00461422899453,Verdun
+66,Desmarchais-Crawford,2016,9,0.00096576885932,Verdun
+66,Desmarchais-Crawford,2017,16,0.00171692241657,Verdun
+66,Desmarchais-Crawford,2018,9,0.00096576885932,Verdun
+67,Cecil-P.-Newman,2011,16,0.00101658301036,LaSalle
+67,Cecil-P.-Newman,2012,31,0.00196962958257,LaSalle
+67,Cecil-P.-Newman,2013,19,0.0012071923248,LaSalle
+67,Cecil-P.-Newman,2014,23,0.00146133807739,LaSalle
+67,Cecil-P.-Newman,2015,85,0.00540059724252,LaSalle
+67,Cecil-P.-Newman,2016,95,0.00603596162399,LaSalle
+67,Cecil-P.-Newman,2017,114,0.00724315394879,LaSalle
+67,Cecil-P.-Newman,2018,14,0.000889510134062,LaSalle
+68,Sault-Saint-Louis,2011,288,0.0130122441603,LaSalle
+68,Sault-Saint-Louis,2012,60,0.00271088420006,LaSalle
+68,Sault-Saint-Louis,2013,40,0.00180725613338,LaSalle
+68,Sault-Saint-Louis,2014,79,0.00356933086342,LaSalle
+68,Sault-Saint-Louis,2015,47,0.00212352595672,LaSalle
+68,Sault-Saint-Louis,2016,89,0.00402114489676,LaSalle
+68,Sault-Saint-Louis,2017,138,0.00623503366015,LaSalle
+68,Sault-Saint-Louis,2018,29,0.0013102606967,LaSalle
+69,Lachine-Ouest,2011,16,0.00220628792057,Lachine
+69,Lachine-Ouest,2012,11,0.00151682294539,Lachine
+69,Lachine-Ouest,2013,29,0.00399889685604,Lachine
+69,Lachine-Ouest,2014,24,0.00330943188086,Lachine
+69,Lachine-Ouest,2015,5,0.000689464975179,Lachine
+69,Lachine-Ouest,2016,10,0.00137892995036,Lachine
+69,Lachine-Ouest,2017,36,0.00496414782129,Lachine
+69,Lachine-Ouest,2018,10,0.00137892995036,Lachine
+70,Vieux-Lachine - Saint-Pierre,2011,23,0.00151485213726,Lachine
+70,Vieux-Lachine - Saint-Pierre,2012,69,0.00454455641178,Lachine
+70,Vieux-Lachine - Saint-Pierre,2013,56,0.00368833563854,Lachine
+70,Vieux-Lachine - Saint-Pierre,2014,70,0.00461041954818,Lachine
+70,Vieux-Lachine - Saint-Pierre,2015,79,0.0052031877758,Lachine
+70,Vieux-Lachine - Saint-Pierre,2016,42,0.00276625172891,Lachine
+70,Vieux-Lachine - Saint-Pierre,2017,81,0.00533491404861,Lachine
+70,Vieux-Lachine - Saint-Pierre,2018,34,0.00223934663769,Lachine
+71,Pierrefonds-Ouest,2011,4,0.000360782898891,Pierrefonds-Roxboro
+71,Pierrefonds-Ouest,2012,4,0.000360782898891,Pierrefonds-Roxboro
+71,Pierrefonds-Ouest,2013,2,0.000180391449445,Pierrefonds-Roxboro
+71,Pierrefonds-Ouest,2014,3,0.000270587174168,Pierrefonds-Roxboro
+71,Pierrefonds-Ouest,2015,1,9.01957247226e-05,Pierrefonds-Roxboro
+71,Pierrefonds-Ouest,2016,1,9.01957247226e-05,Pierrefonds-Roxboro
+71,Pierrefonds-Ouest,2017,4,0.000360782898891,Pierrefonds-Roxboro
+71,Pierrefonds-Ouest,2018,,,Pierrefonds-Roxboro
+72,Pierrefonds-Est,2011,17,0.00111519286277,Pierrefonds-Roxboro
+72,Pierrefonds-Est,2012,11,0.00072159538179,Pierrefonds-Roxboro
+72,Pierrefonds-Est,2013,22,0.00144319076358,Pierrefonds-Roxboro
+72,Pierrefonds-Est,2014,12,0.000787194961952,Pierrefonds-Roxboro
+72,Pierrefonds-Est,2015,17,0.00111519286277,Pierrefonds-Roxboro
+72,Pierrefonds-Est,2016,31,0.00203358698504,Pierrefonds-Roxboro
+72,Pierrefonds-Est,2017,29,0.00190238782472,Pierrefonds-Roxboro
+72,Pierrefonds-Est,2018,1,6.55995801627e-05,Pierrefonds-Roxboro
+73,Anjou,2011,33,0.00163869301817,Anjou
+73,Anjou,2012,43,0.00213526666005,Anjou
+73,Anjou,2013,101,0.0050153937829,Anjou
+73,Anjou,2014,85,0.0042208759559,Anjou
+73,Anjou,2015,95,0.00471744959778,Anjou
+73,Anjou,2016,74,0.00367464494985,Anjou
+73,Anjou,2017,68,0.00337670076472,Anjou
+73,Anjou,2018,19,0.000943489919555,Anjou
+74,Outremont,2011,4,0.000386959465996,Outremont
+74,Outremont,2012,17,0.00164457773048,Outremont
+74,Outremont,2013,17,0.00164457773048,Outremont
+74,Outremont,2014,47,0.00454677372545,Outremont
+74,Outremont,2015,47,0.00454677372545,Outremont
+74,Outremont,2016,52,0.00503047305795,Outremont
+74,Outremont,2017,13,0.00125761826449,Outremont
+74,Outremont,2018,11,0.00106413853149,Outremont
+75,L'Île-Bizard–Sainte-Geneviève,2011,2,0.000274876305662,L'Île-Bizard–Sainte-Geneviève
+75,L'Île-Bizard–Sainte-Geneviève,2013,3,0.000412314458494,L'Île-Bizard–Sainte-Geneviève
+75,L'Île-Bizard–Sainte-Geneviève,2014,11,0.00151181968114,L'Île-Bizard–Sainte-Geneviève
+75,L'Île-Bizard–Sainte-Geneviève,2015,8,0.00109950522265,L'Île-Bizard–Sainte-Geneviève
+75,L'Île-Bizard–Sainte-Geneviève,2016,1,0.000137438152831,L'Île-Bizard–Sainte-Geneviève
+83,Côte-Saint-Luc,2012,1,6.59022011335e-05,
+83,Côte-Saint-Luc,2013,1,6.59022011335e-05,
+83,Côte-Saint-Luc,2014,2,0.000131804402267,
+83,Côte-Saint-Luc,2015,1,6.59022011335e-05,
+83,Côte-Saint-Luc,2016,1,6.59022011335e-05,
+83,Côte-Saint-Luc,2018,2,0.000131804402267,
